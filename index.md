@@ -1,4 +1,4 @@
 ---
-title: # Pickles Fuzzybottom
+title: Pickles Fuzzybottom
 ---
 
